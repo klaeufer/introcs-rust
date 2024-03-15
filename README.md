@@ -1,5 +1,5 @@
-Introduction to Computer Science in C\#
-===========================================
+Introduction to Computer Science in Rust
+========================================
 
 Build Status
 -------------
@@ -9,7 +9,7 @@ Build Status
 Viewing and Downloading
 ---------------------------
 
-Web Site - http://introcs.cs.luc.edu
+Web Site - TODO http://introcs-rust.cs.luc.edu
 
 Building the Book
 --------------------
